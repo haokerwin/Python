@@ -12,3 +12,5 @@ lr_bpnn.py:             Selecting the proper learning rate
 neurons_bpnn.py:        Selecting the proper number of neurons
 dropout.py :            Determining the proper drop out rate
 result_bpnn.py:         Running a bpnn using severous options
+
+
